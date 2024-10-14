@@ -4,6 +4,8 @@ Just front-end to list of Windiws services which allows to start/stop services.
 
 # Recommended Setup
 
+Note: here are short video instructions on how to install it - https://youtu.be/ChW1hNT-QCI 
+
 ## Prerequisities 
 
 To run this tool you need following:
