@@ -1,10 +1,10 @@
 # SrvcLstNjs: Services List - node.js edition
 
-Just front-end to list of Windiws services which allows to start/stop services.
+Just a front-end for a list of Windiws services which allows to start/stop services.
 
 # Recommended Setup
 
-Note: here are short video instructions on how to install it - https://youtu.be/ChW1hNT-QCI 
+Note: here is a link short video instructions on how to install it - https://youtu.be/ChW1hNT-QCI 
 
 ## Prerequisities 
 
